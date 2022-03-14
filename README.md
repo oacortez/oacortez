@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there welcome to my Github 👋
+---
+#### My name is Oscar Cortez, and I'm a developer and front-end software engineer! 
+---
+### About me
 
 <!--
 **oacortez/oacortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

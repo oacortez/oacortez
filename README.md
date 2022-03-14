@@ -1,6 +1,6 @@
 ### Hi there welcome to my Github 👋
 ---
-###<div align="center"> My name is Oscar Cortez, I am a front-end developer who loves design and learning new technologies!</div>  
+### <div align="center"> My name is Oscar Cortez, I am a front-end developer who loves design and learning new technologies!</div>  
 ---
 ### About me
 

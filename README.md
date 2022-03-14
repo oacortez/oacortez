@@ -1,6 +1,6 @@
 # <div align="center"> Hi there welcome to my Github 👋</div>
 
-### <div align="center"> My name is Oscar Cortez, I am a front-end developer who loves to learn and explore new technologies!</div>  
+### <div align="center"> My name is Oscar Cortez Barrientos, I am a front-end developer who loves to learn and explore new technologies!</div>  
 ---
 ## <div align="center">About me</div>
 ### <p align="center">

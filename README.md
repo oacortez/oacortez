@@ -4,7 +4,7 @@
 ---
 ## <div align="center">About me</div>
 ### <p align="center">
-Ever since I was in middle school I was always exposed to websites and applications for phones. Since then I always had a curiousity on how all of these technologies worked and how users interact with that certain website/app. In 2017 I exposed my self to techonlogies such as Python and Swift even tho I never got to fully comprehend the languages it was a start to a new journey. Foward time till now, I am currently a mod 4 student at Turing School of Software & Design Learning Javascript, React, and more!
+Ever since I was in middle school I was always exposed to websites and applications for phones. Since then I always had a curiousity on how all of these technologies worked and how users interact with that certain website/app. In 2017 I exposed my self to techonlogies such as Python and Swift even tho I never got to fully comprehend the languages it was a start to a new journey. Foward time till present, I am currently a student at Turing School of Software & Design Learning Javascript, React, and more!
 </p>
 
 ## <div align="center">Contact Me</div>
@@ -15,6 +15,12 @@ Ever since I was in middle school I was always exposed to websites and applicati
 </a>
 </div>
 
+## <div align="center">Technologies</div>
+### Languages, Frameworks, and Libraries
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+}" /> <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+}" /> <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+}" /> <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" /> <img src="{	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white}" /> <img src="{https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}"
 
 <!--
 **oacortez/oacortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,10 @@
-# <div align="center"> Hi there welcome to my Github 👋</div>
+# <div align="center">Welcome to my Github 👋</div>
 
-### <div align="center"> My name is Oscar Cortez Barrientos, I am a front-end developer who loves to learn and explore new technologies!</div>  
+### <div align="center"> My name is Oscar, I am a front-end developer who loves to learn and explore all there is to know about Front-end development!</div>  
 ---
 ## <div align="center">About me</div>
 ### <p align="center">
-Ever since I was in middle school I was always exposed to websites and applications for phones. Since then I always had a curiousity on how all of these technologies worked and how users interact with that certain website/app. In 2017 I exposed my self to techonlogies such as Python and Swift even tho I never got to fully comprehend the languages it was a start to a new journey. Foward time till present, I am currently a student at Turing School of Software & Design Learning Javascript, React, and more!
+I am a passionate Front End Developer who is forever a student, passionate about all user experiences. I began my career in customer service, where I developed a strong attention to detail and growth mindset. Looking forward to bringing my sense of curiosity and love of learning to a company that will make a positive impact on its users and the industry.
 </p>
 
 ## <div align="center">Contact Me</div>
